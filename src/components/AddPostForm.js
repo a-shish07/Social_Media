@@ -42,7 +42,7 @@ function AddPostForm() {
               placeholder="Enter your full name"
               value={formData.username}
               onChange={handleChange}
-              className="w-full px-4 py-2 border border-gray-300 rounded-lg text-gray-700 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:border-blue-400"
+              className="w-full px-4 py-2 border border-gray-100 rounded-lg text-gray-700 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:border-blue-400"
             />
           </div>
 
